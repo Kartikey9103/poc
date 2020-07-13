@@ -61,12 +61,15 @@ We need to calculate the angle between the hands on a clock face. For example in
    }
     
 1) How will you deploy this solution (in code or as a todo list if time is limited). i.e. how and where will this run?
-   to do
+   ---create project in GCP console
+   ---clone the api from git repository
+   ---- install the requirements 
+   ---- run the app from project folder and deploy
 1) How will you manage any infrastructure needed?
-  Scalability is taken care by GCP
+  ----Autobalancing and Scalability is taken care by GCP
 1) Delivered as a feature branch in the repo fork
-    feature_angle_kartikey is created
+   ---feature_angle_kartikey is created
 1) Bonus points for a working deployed solution in GCP or Azure that you can demo at the "sprint review" (ie interview)
-   To do
+   ---Because of account issue due to credit card validation not able to do in GCP
 1) Any DevOps/Cicd components that would support this feature in a production setting
- NA
+   ----NA
